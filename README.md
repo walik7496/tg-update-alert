@@ -1,4 +1,4 @@
-# Telegram Desktop Update Bot
+# Telegram Desktop Notifier
 
 A Google Apps Script bot that notifies you via Telegram when a new version of **Telegram Desktop** is released.
 
